@@ -44,3 +44,6 @@ back-col-img{
     height: 380px;
     background-color: rgb(231, 230, 230);
 }
+.bg-img1{
+    background-image: url("images/bg-2.png");
+}
